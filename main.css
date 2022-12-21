@@ -11,7 +11,7 @@ header{
     width: 60%;
     margin-right: 150px;
     margin-left: 41px;
-    padding: 20px;
+    padding: 1%;
     text-align: left;
     color: aliceblue;
 }
@@ -21,7 +21,4 @@ header{
 
 body{
     background-image: url("tree.gif");
-}
-html, body {
-    min-height: 20%;
 }
